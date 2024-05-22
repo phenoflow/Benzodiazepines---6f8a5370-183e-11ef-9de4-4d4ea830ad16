@@ -1,0 +1,129 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/benzodiazepines-temazepam---primary.py
+inputModule3:
+  class: File
+  path: python/benzodiazepines-diazepam---primary.py
+inputModule4:
+  class: File
+  path: python/benzodiazepines-250microgram---primary.py
+inputModule5:
+  class: File
+  path: python/benzodiazepines-125microgram---primary.py
+inputModule6:
+  class: File
+  path: python/benzodiazepines-suspension---primary.py
+inputModule7:
+  class: File
+  path: python/benzodiazepines-capsule---primary.py
+inputModule8:
+  class: File
+  path: python/benzodiazepines-euhypno---primary.py
+inputModule9:
+  class: File
+  path: python/benzodiazepines-tablet---primary.py
+inputModule10:
+  class: File
+  path: python/benzodiazepines-chlordiazepoxide---primary.py
+inputModule11:
+  class: File
+  path: python/benzodiazepines-oxazepam---primary.py
+inputModule12:
+  class: File
+  path: python/benzodiazepines-flurazepam---primary.py
+inputModule13:
+  class: File
+  path: python/benzodiazepines-lormetazepam---primary.py
+inputModule14:
+  class: File
+  path: python/buccal-benzodiazepines---primary.py
+inputModule15:
+  class: File
+  path: python/benzodiazepines-nitrazepam---primary.py
+inputModule16:
+  class: File
+  path: python/benzodiazepines-bromazepam---primary.py
+inputModule17:
+  class: File
+  path: python/benzodiazepines-valium---primary.py
+inputModule18:
+  class: File
+  path: python/benzodiazepines-midazolam---primary.py
+inputModule19:
+  class: File
+  path: python/benzodiazepines-syringe---primary.py
+inputModule20:
+  class: File
+  path: python/benzodiazepines-alprazolam---primary.py
+inputModule21:
+  class: File
+  path: python/benzodiazepines-lorazepam---primary.py
+inputModule22:
+  class: File
+  path: python/benzodiazepines-medazepam---primary.py
+inputModule23:
+  class: File
+  path: python/benzodiazepines-tapclob---primary.py
+inputModule24:
+  class: File
+  path: python/benzodiazepines-sugar---primary.py
+inputModule25:
+  class: File
+  path: python/benzodiazepines-gelthix---primary.py
+inputModule26:
+  class: File
+  path: python/benzodiazepines-lexotan---primary.py
+inputModule27:
+  class: File
+  path: python/benzodiazepines-solution---primary.py
+inputModule28:
+  class: File
+  path: python/benzodiazepines-librium---primary.py
+inputModule29:
+  class: File
+  path: python/benzodiazepines-anxon---primary.py
+inputModule30:
+  class: File
+  path: python/benzodiazepines-gelfill---primary.py
+inputModule31:
+  class: File
+  path: python/benzodiazepines-normison---primary.py
+inputModule32:
+  class: File
+  path: python/benzodiazepines-clobazam---primary.py
+inputModule33:
+  class: File
+  path: python/benzodiazepines-oromucosal---primary.py
+inputModule34:
+  class: File
+  path: python/benzodiazepines-dalmane---primary.py
+inputModule35:
+  class: File
+  path: python/benzodiazepines-ativan---primary.py
+inputModule36:
+  class: File
+  path: python/benzodiazepines-xanax---primary.py
+inputModule37:
+  class: File
+  path: python/benzodiazepines-loprazolam---primary.py
+inputModule38:
+  class: File
+  path: python/benzodiazepines-ketazolam---primary.py
+inputModule39:
+  class: File
+  path: python/benzodiazepines-nobrium---primary.py
+inputModule40:
+  class: File
+  path: python/benzodiazepines-tropium---primary.py
+inputModule41:
+  class: File
+  path: python/benzodiazepines-mogadon---primary.py
+inputModule42:
+  class: File
+  path: python/benzodiazepines-triazolam---primary.py
+inputModule43:
+  class: File
+  path: python/output-cases.py
